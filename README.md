@@ -1,2 +1,3 @@
 # project_resource
-resource just for cdn usage
+
+自用项目
