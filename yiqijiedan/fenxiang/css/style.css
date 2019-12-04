@@ -2353,3 +2353,12 @@ a.next:hover {
 .article-list-item-title{
   padding-top:3px;
 }
+
+.detail h1 {
+  font-size: 30px;
+  font-weight: bolder;
+}
+.detail h2 {
+  font-size: 20px;
+  font-weight: bolder;
+}
