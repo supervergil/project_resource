@@ -1,0 +1,51 @@
+body {
+  background-color: white;
+}
+/* 下载 */
+.download-container {
+  width: 100%;
+}
+
+.app-show {
+  text-align: right;
+}
+
+.app-address {
+  text-align: center;
+}
+
+.downTitle {
+  margin-top: 50px;
+  color: #fc513f;
+  font-size: 26px;
+}
+
+.btn-region {
+  padding-top: 30px;
+}
+
+.downBtn {
+  display: block;
+  margin: auto;
+  margin-bottom: 20px;
+  font-size: 20px;
+  padding: 8px;
+  width: 250px;
+  background-color: #fc513f;
+  color: white;
+  user-select: none;
+  cursor: pointer;
+  text-decoration: none !important;
+}
+
+.downBtn:hover {
+  color: white;
+  filter: brightness(120%);
+  -webkit-filter: brightness(120%);
+}
+
+@media screen and (max-width: 767px) {
+  .app-show {
+    text-align: center;
+  }
+}
