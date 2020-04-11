@@ -1081,7 +1081,7 @@ textarea.input { height: auto }
 .banner .pager-prev { left: 20px }
 .banner .pager-next { right: 20px }
 .banner:hover .pager-next, .banner:hover .pager-prev { display: block }
-.icon-navicon { display: none; font-size:0px;background: #FFF url(../images/wapmenu.png) center center no-repeat; width:30px; height:45px;}
+.icon-navicon { display: none; font-size:0px;background: #FFF url(http://cdn.yiqijiedan.cn/dongxiaodian/wapmenu.png) center center no-repeat; width:30px; height:45px;}
 @media(max-width:760px) {
 .icon-navicon { display: block; }
 .nav-navicon, .nav.nav-navicon, .navbar-body.nav-navicon { display: none }

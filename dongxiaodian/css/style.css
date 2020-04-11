@@ -545,23 +545,23 @@ html[xmlns] .slides {
 } /* display:none隐藏左右按钮 */
 .flex-direction-nav li a.flex-prev {
   left: 3%;
-  background: url("../images/left.png")
+  background: url("http://cdn.yiqijiedan.cn/dongxiaodian/left.png")
     /*tpa=http://www.tbadc.com/tbadc_tem/images/left.png*/ 0 0 no-repeat;
   display: none;
 }
 .flex-direction-nav li a.flex-next {
   right: 3%;
-  background: url("../images/right.png")
+  background: url("http://cdn.yiqijiedan.cn/dongxiaodian/right.png")
     /*tpa=http://www.tbadc.com/tbadc_tem/images/right.png*/ 0 0 no-repeat;
   display: none;
 }
 .flex-direction-nav li a.flex-next:hover {
-  background: url("../images/right.png")
+  background: url("http://cdn.yiqijiedan.cn/dongxiaodian/right.png")
     /*tpa=http://www.tbadc.com/tbadc_tem/images/right.png*/ 0 -96px no-repeat;
   display: none;
 }
 .flex-direction-nav li a.flex-prev:hover {
-  background: url("../images/left.png")
+  background: url("http://cdn.yiqijiedan.cn/dongxiaodian/left.png")
     /*tpa=http://www.tbadc.com/tbadc_tem/images/left.png*/ 0 -96px no-repeat;
   display: none;
 }
@@ -750,7 +750,7 @@ html[xmlns] .slides {
 
 /*首页他们的评价 begin*/
 #fh5co-comment-list .bg-comment {
-  background-image: url("../images/comment_bg.jpg")
+  background-image: url("http://cdn.yiqijiedan.cn/dongxiaodian/comment_bg.jpg")
     /*tpa=http://www.tbadc.com/tbadc_tem/images/comment_bg.jpg*/;
   background-repeat: no-repeat;
   background-size: cover;
